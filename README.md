@@ -1,21 +1,4 @@
-## Olá, sou o Rodrigo Nogueira! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="oi">
-
-🚀 Confira meu Portfólio [portfolioweb2023.netlify.app](https://portfolioweb2023.netlify.app/)
-
-Sou um apaixonado por tecnologia, especializado em Desenvolvimento Web Full Stack.
-
-:mailbox: Entre em contato comigo!
-
-[![Mail Badge](https://img.shields.io/badge/-RodrigoNogueira-6c757d?style=flat&labelColor=6c757d&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigosnogueira/)
-[![Mail Badge](https://img.shields.io/badge/-RodrigoNogueira-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nogueirajsx@gmail.com)
-
-### Sobre Mim
-
-- :computer: Linha de código mais usada `console.log("Hello, World!")`
-- 🤔 Estou buscando novos projetos.
-- 📫 Como me encontrar: nogueirajsx@gmail.com.
-- 😄 Pronomes: Ele/Dele.
-- ⚡ Curiosidade: Adoro viajar e experimentar diferentes culturas.
+## Olá, sou o Rodrigo Nogueira!
 
 #### Principais Tecnologias
 
@@ -31,12 +14,3 @@ Sou um apaixonado por tecnologia, especializado em Desenvolvimento Web Full Stac
 - DevOps
 - Cloud Computing
 - Cybersecurity
-
-#### Estatísticas de Código
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   10 hrs 30 mins  ██████████████▓░░░░░░░░░░   63.00 % 
-HTML         3 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   21.00 % 
-CSS          2 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Other        1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
